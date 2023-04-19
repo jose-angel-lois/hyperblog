@@ -1,9 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
 body{
-  padding: 2rem;
+  /* padding: 2rem; */
   font-family: arial;
   font-size: 1.5rem;
-  color: orange;
+  /* color: orange; */
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 body *{
@@ -17,9 +24,14 @@ body *{
   padding: 2rem;
 }
 
+#cabecera{
+  border-bottom: 2px solid #333;
+  padding-bottom: 1rem;
+}
+
 #post_title{
   font-size: 4rem;
-  line-height: 2rem;
+  /* line-height: 3rem; */
   margin: 3rem auto;
   color: black;
 }
