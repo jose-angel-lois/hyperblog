@@ -43,4 +43,5 @@ body *{
 
 #post_content p{
     text-align: justify;
+    margin: 1rem auto;
   }
