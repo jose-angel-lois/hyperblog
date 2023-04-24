@@ -3,3 +3,6 @@
 *.jp*
 
 *.sh
+scripts/
+
+requirements.txt
