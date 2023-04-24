@@ -1,3 +1,5 @@
 *.webp
 *.pdf
 *.jp*
+
+*.sh
